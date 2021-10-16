@@ -9,5 +9,5 @@
 โดยเมื่อกดแต่ละปุุ่ม จะมีการใช้คำสั่ง Navigator.push() ทำการ return LoginScreen() และ RegisterScreen() 
 เพื่อแสดงหน้า Login และ Register
 
-<img src="https://user-images.githubusercontent.com/48233991/137513104-7aedecd9-66ec-41c4-982b-37ce4f9105ed.png" height="400" /> 
+![137510154-6d7bfa57-41ba-4359-9b05-7b3f4626a43e](https://user-images.githubusercontent.com/92643835/137597043-d8f3b26e-1750-4f77-b5f7-c74ed1ff0338.png)
 
